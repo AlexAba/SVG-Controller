@@ -1,5 +1,5 @@
 # SVG-Controller
-#### JavaScript library that allows you to control SVG files with touches (pan and zoom). Best suited for mobile devices.
+#### JavaScript library that allows you to control SVG files with touches (pan and zoom). Good approach for mobile devices.
 #### The controller do not require any additional libraries.
 ## Usage:
 
